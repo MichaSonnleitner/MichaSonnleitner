@@ -47,7 +47,7 @@ terminal-tools
 
 📊 Stats
 
-"Stats" (https://github-readme-stats.vercel.app/api?username=DEINNAME&show_icons=true&theme=dark)
+"Stats" (https://github-readme-stats.vercel.app/api?username=MichaSonnleitner&show_icons=true&theme=dark)
 
 ---
 
