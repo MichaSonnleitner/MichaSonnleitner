@@ -48,3 +48,4 @@ Ich baue Projekte wie ein Minecraft Base:
 
 > contact
 GitHub: https://github.com/MichaSonnleitner
+Discord: xMicha1234x
