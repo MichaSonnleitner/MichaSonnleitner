@@ -33,22 +33,6 @@ Ich baue Projekte wie ein Minecraft Base:
 - Flask 🌐
 - Debian/Linux 🐧
 - Raspberry Pi 🍓
-
----
-
-📦 Projekte
-
-> ls projects
-docker-pihole
-flask-dashboard
-terminal-tools
-
----
-
-📊 Stats
-
-"Stats" (https://github-readme-stats.vercel.app/api?username=MichaSonnleitner&show_icons=true&theme=dark)
-
 ---
 
 🚀 Goals
